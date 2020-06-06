@@ -1,0 +1,12 @@
+{
+  "name": "fetch-data-refactor",
+  "version": "0.1.0",
+  "description": "Fetch data refactor",
+  "keywords": [
+    "fetch",
+    "data",
+    "refactor"
+  ],
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "ISC"
+}
