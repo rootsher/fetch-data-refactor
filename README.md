@@ -8,7 +8,7 @@
 4. [04-separate-view](https://github.com/rootsher/fetch-data-refactor/tree/master/stages/04-separate-view)
 5. [05-model-and-typescript](https://github.com/rootsher/fetch-data-refactor/tree/master/stages/05-model-and-typescript)
 6. [06-rxjs](https://github.com/rootsher/fetch-data-refactor/tree/master/stages/06-rxjs)
-7. TODO - 07-reusable-use-fetch
+7. [07-reusable-use-fetch](https://github.com/rootsher/fetch-data-refactor/tree/master/stages/07-reusable-use-fetch)
 8. TODO - 08-storybook
 9. TODO - 09-tests
 10. TODO - 10-redux
